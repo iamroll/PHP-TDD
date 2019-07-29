@@ -1,0 +1,28 @@
+{
+  "name": "ralan/tdd",
+  "type": "project",
+  "description": "Project to familiarize with TDD",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ralan Zhetenov",
+      "email": "rollwho@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "codedungeon/phpunit-result-printer": "0.26.2",
+    "phpunit/phpunit": "8.2.5",
+    "spatie/phpunit-watcher": "1.11.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Exercises\\": "exercises/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  }
+}
