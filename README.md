@@ -12,13 +12,15 @@ Test Driven Development (TDD) - is a software development process that relies on
 
 1. Pick an exercise for example `exercises/Fibonacci` and inside `tests/Fibonacci/FibonacciTest.php`.
 2. Run `./vendor/bin/phpunit` or `./vendor/bin/phpunit-watcher watch` to start tests.
-
+3. Run `./vendor/bin/phpcs exercises/` to check syntax.
+`
 
 
 ## Suggested Path
 
 
 - [Fibonacci](./exercises/Fibonacci/Fibonacci.php)
+- [Palindrome](./exercises/Palindrome/Palindrome.php)
 
 ## License
 
