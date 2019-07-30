@@ -20,6 +20,10 @@ use InvalidArgumentException;
  * The fibonacci series is a series of numbers where
  * each consecutive number is the sum of the previous two.
  * For example [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ∞].
+ *
+ * Class Fibonacci
+ *
+ * @package Exercises\Fibonacci
  */
 class Fibonacci
 {

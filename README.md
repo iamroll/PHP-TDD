@@ -21,6 +21,7 @@ Test Driven Development (TDD) - is a software development process that relies on
 
 - [Fibonacci](./exercises/Fibonacci/Fibonacci.php)
 - [Palindrome](./exercises/Palindrome/Palindrome.php)
+- [BinarySearch](./exercises/BinarySearch/BinarySearch.php)
 
 ## License
 
